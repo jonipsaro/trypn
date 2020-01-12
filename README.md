@@ -1,5 +1,5 @@
 # trypn
-This repository contains python3 scripts for processing MS data from MASCOT-generated .CSV files for determination of peptide, protein, and proteolysis parameters.
+This repository contains python3 scripts for processing MS data from MASCOT-generated .csv files for determination of peptide, protein, and proteolysis parameters.
 
 Each script has extended documentation for its use in its header.  These scripts perform the following general tasks:
     calc_cleavages.py
