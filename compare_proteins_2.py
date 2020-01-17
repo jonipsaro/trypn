@@ -1,5 +1,5 @@
 #Jonathan Ipsaro
-#Last reviewed: January 12, 2019
+#Last reviewed: January 12, 2020
 #
 #This script find overlapping proteins (by protein accession number)
 #between two input files.

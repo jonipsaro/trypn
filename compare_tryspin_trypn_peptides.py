@@ -1,5 +1,5 @@
 #Jonathan Ipsaro
-#Last reviewed: January 12, 2019
+#Last reviewed: January 12, 2020
 #
 #This script finds overlapping peptides between
 #Trypsin- and TrypN-digested samples.

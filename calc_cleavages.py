@@ -1,5 +1,5 @@
 #Jonathan Ipsaro
-#Last reviewed: January 11, 2019
+#Last reviewed: January 11, 2020
 #
 #This script takes csv files from MASCOT and determines the frequency of each N-terminal amino acid
 #in each unique peptide.
